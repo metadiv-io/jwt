@@ -5,7 +5,7 @@ go 1.23.2
 require github.com/golang-jwt/jwt/v5 v5.2.1
 
 require (
-	github.com/metadiv-io/rsa v0.0.0-20241208070156-bb12c9ae1c2d
+	github.com/metadiv-io/rsa v1.0.0
 	github.com/onsi/ginkgo/v2 v2.22.0
 	github.com/onsi/gomega v1.36.0
 )
